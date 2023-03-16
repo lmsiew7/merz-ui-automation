@@ -1,0 +1,2 @@
+Highest: 41890
+Lowest: 34500
